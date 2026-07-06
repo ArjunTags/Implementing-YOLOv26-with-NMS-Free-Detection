@@ -1,0 +1,4 @@
+Model Run,model,epochs,imgsz,optimizer,batch,Learning Rate
+model_A,yolo26n.pt,25,640,AdamW,4,0.01
+model_B,yolo26n.pt,30,640,SGD,20,0.001
+model_C,yolo26n.pt,40,640,auto,-1,0.0001

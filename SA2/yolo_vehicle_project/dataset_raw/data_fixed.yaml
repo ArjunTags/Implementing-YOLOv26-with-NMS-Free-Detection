@@ -1,0 +1,10 @@
+path: C:/Users/Arjun/Documents/yolo_vehicle_project/dataset_raw
+train: train/images
+val: valid/images
+names:
+  0: jeepneys
+  1: car
+  2: trucks
+  3: vans
+  4: motorcycle
+  5: bus

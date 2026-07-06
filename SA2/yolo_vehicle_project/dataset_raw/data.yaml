@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Jeepneys', 'bus', 'car', 'motorcycle', 'trucks', 'vans']
+
+roboflow:
+  workspace: arjuns-workspace-utjh6
+  project: data-science-3-tlvei
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/arjuns-workspace-utjh6/data-science-3-tlvei/dataset/1
